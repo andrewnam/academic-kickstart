@@ -19,27 +19,35 @@ date_format = "January 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
+  title = "Ph.D. Student"
+  company = "Stanford University"
   company_url = ""
   location = "California"
-  date_start = "2017-01-01"
+  date_start = "2018-09-24"
   date_end = ""
   description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
+  Part of the Parallel Distributed Processing (PDP) Lab led by Professor Jay McClelland
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Software Engineer (AMTS)"
+  company = "Salesforce"
   company_url = ""
   location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
-
+  date_start = "2017-07-10"
+  date_end = "2018-08-31"
+  description = """
+  Part of the Diagnostics, Visibility, and Analytics (DVA) team
+  """
+  
+[[experience]]
+  title = "Research Assistant"
+  company = "University of California, Berkeley"
+  company_url = ""
+  location = "California"
+  date_start = "2016-07-01"
+  date_end = "2018-02-01"
+  description = """
+  Part of the Computational Approaches to Human Learning (CAHL) Research Lab lead by Professor Zachary Pardos.
+  """
 +++

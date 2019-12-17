@@ -10,31 +10,32 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
+    "Cognitive Science",
     "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Economics",
+    "Public Policy",
+    "Sociology",
+    "Management Science"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
+  course = "Ph.D. in Psychology (Current)"
   institution = "Stanford University"
-  year = 2012
+# year = Current
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
-
+  course = "B.A. in Computer Science"
+  institution = "University of California, Berkeley"
+  year = 2017
+  
 [[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
+  course = "B.A. in Economics"
+  institution = "University of California, Berkeley"
+  year = 2017
  
 +++
 
 # Biography
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+I am a first-year Ph.D. student in psychology at Stanford under the advisory of Professor James L. McClelland. My research is on computational cognitive modeling, i.e. identifying psychological constructs and understanding their mechanisms through computer models such as neural networks. In particular, I am interested in logical and mathematical reasoning which are essential cognitive faculties for inferencing, problem solving, and decision making. 

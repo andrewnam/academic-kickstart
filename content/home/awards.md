@@ -7,18 +7,12 @@ active = true
 date = 2016-04-20T00:00:00
 
 # Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.
-title = "Teaching"
+title = "Awards"
 subtitle = ""
 
 # Order that this section will appear in.
-weight = 60
+weight = 15
 
 +++
 
-2020 Spring - Psych 164: Brain decoding (Stanford University)
-
-2020 Winter - Psych 252: Statistical methods for behavioral and social sciences (Stanford University)
-
-2016 Fall - CS 70: Discrete mathematics and probability (UC Berkeley) 
-
-2016 Spring - CS 70: Discrete mathematics and probability (UC Berkeley)
+Mar 2020 - National Science Foundation (NSF) Graduate Research Fellowship (GRF)

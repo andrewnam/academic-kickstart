@@ -13,9 +13,7 @@ weight = 5
     "Cognitive Science",
     "Artificial Intelligence",
     "Economics",
-    "Public Policy",
     "Sociology",
-    "Management Science"
   ]
 
 # List your qualifications (such as academic degrees).
@@ -38,4 +36,9 @@ weight = 5
 
 # Biography
 
-I am a first-year Ph.D. student in psychology at Stanford under the advisory of Professor James L. McClelland. My research is on computational cognitive modeling, i.e. identifying psychological constructs and understanding their mechanisms through computer models such as neural networks. In particular, I am interested in logical and mathematical reasoning which are essential cognitive faculties for inferencing, problem solving, and decision making. 
+I am a second-year Ph.D. student in psychology at Stanford under the advisory of Professor
+James L. McClelland. My research is on computational cognitive modeling,
+i.e. identifying psychological constructs and understanding their mechanisms through
+computer models such as neural networks. In particular, I am interested in logical
+and mathematical reasoning which are essential cognitive faculties for inferencing,
+problem solving, and decision making. 
